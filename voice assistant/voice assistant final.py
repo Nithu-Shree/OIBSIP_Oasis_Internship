@@ -1,4 +1,8 @@
-# voice assistant
+# Language : Python 3
+# Code by: Nithu Shree(Github : Nithu-Shree)
+# Description : Voice Assistant using Python for Oasis Infobyte Internship
+
+# Importing the libraries 
 import pyttsx3
 import speech_recognition as sr
 import webbrowser
@@ -10,6 +14,7 @@ from colorama import init, Fore, Style
 from rich.console import Console
 from time import sleep
 
+# Initialization
 console = Console()
 
 
