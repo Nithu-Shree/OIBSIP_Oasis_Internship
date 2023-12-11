@@ -1,3 +1,7 @@
+# Language : Python 3
+# Code by : Nithu Shree(Github : Nithu-Shree)
+# Description : Weather App using Command Line Interface
+
 import requests
 from rich.progress import Progress
 from rich.console import Console
